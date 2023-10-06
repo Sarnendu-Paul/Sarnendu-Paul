@@ -32,4 +32,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnendu-paul&" alt="sarnendu-paul" /></p>
 
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
-
