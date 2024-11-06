@@ -1,4 +1,4 @@
-![MasterHead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
+[![MasterHead](https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif)]
 <h1 align="center">Hi 👋, I'm Sarnendu Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
