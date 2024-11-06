@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw2VUxW7FCdF4CzPl4RrIeFv&ust=1730998068486000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDB_LiUyIkDFQAAAAAdAAAAABAw)]
+[![MasterHead](https://cdn.prod.website-files.com/6529af71422fddacbfa5868d/663a85ba91050589a77996ae_IMG_3321.gif)]
 <h1 align="center">Hi 👋, I'm Sarnendu Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
