@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarnendupaul10" target="blank"><img src="https://img.shields.io/twitter/follow/sarnendupaul10?logo=twitter&style=for-the-badge" alt="sarnendupaul10" /></a> </p>
 
-- 🌱 I’m currently learning **Front end developement**
+- 🌱 I’m currently learning **Front end development**
 
 - 📝 I regularly write articles on [https://medium.com/@sarnendupaul10](https://medium.com/@sarnendupaul10)
 
