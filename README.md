@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarnendu-paul&label=Profile%20views&color=0e75b6&style=flat" alt="sarnendu-paul" /> </p>
 
-<!-- new -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul" alt="sarnendu-paul" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@sarnendupaul10](https://medium.com/@sarnendupaul10)
-
-- ⚡ Fun fact **I automate tasks for fun and debug life like it's just another script. 💻⚙️**
-<!-- this -->
-
 <p align="left"> <a href="https://twitter.com/sarnendupaul10" target="blank"><img src="https://img.shields.io/twitter/follow/sarnendupaul10?logo=twitter&style=for-the-badge" alt="sarnendupaul10" /></a> </p>
 
 - 🌱 I’m currently learning **Front end developement**
