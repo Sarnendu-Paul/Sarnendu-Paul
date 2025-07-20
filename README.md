@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarnendupaul10" target="blank"><img src="https://img.shields.io/twitter/follow/sarnendupaul10?logo=twitter&style=for-the-badge" alt="sarnendupaul10" /></a> </p>
 
-- 🔭 I’m currently working in **Zensar Technologies**
+- 🔭 I’m currently working @ **Zensar Technologies**
 
 - 🌱 I’m currently learning **Full Stack Development, Devops and Guidewire**
 
