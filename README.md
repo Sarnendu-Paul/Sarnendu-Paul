@@ -36,6 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnendu-paul&" alt="sarnendu-paul" /></p>
 
 <!-- GitHub Trophies-->
+<h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul&theme=gruvbox" alt="sarnendu-paul" /></a> </p>
 
 <!-- Holopin Badges -->
