@@ -41,4 +41,5 @@
 
 <!-- Holopin Badges -->
 <h3 align="left">⭐ Holopin Badges:</h3>
+
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
