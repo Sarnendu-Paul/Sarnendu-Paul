@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sarnendupaul10](https://medium.com/@sarnendupaul10)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, **
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **swarnendupaul1995@gmail.com**
 
