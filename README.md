@@ -35,4 +35,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnendu-paul&" alt="sarnendu-paul" /></p>
 
+<!-- new -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnendu-paul&show_icons=true&locale=en&layout=compact" alt="sarnendu-paul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&show_icons=true&locale=en" alt="sarnendu-paul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnendu-paul&" alt="sarnendu-paul" /></p>
+
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
