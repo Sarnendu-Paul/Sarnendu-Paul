@@ -9,9 +9,17 @@
 
 - 🌱 I’m currently learning **Front end developement**
 
+- 📝 I regularly write articles on [https://medium.com/@sarnendupaul10](https://medium.com/@sarnendupaul10)
+
 - 💬 Ask me about **HTML, CSS, JavaScript, React, **
 
 - 📫 How to reach me **swarnendupaul1995@gmail.com**
+
+- ⚡ Fun fact **I automate tasks for fun and debug life like it's just another script. 💻⚙️**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
