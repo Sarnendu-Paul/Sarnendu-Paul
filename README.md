@@ -17,10 +17,6 @@
 
 - ⚡ Fun fact **I automate tasks for fun and debug life like it's just another script. 💻⚙️**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarnendupaul10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarnendupaul10" height="30" width="40" /></a>
