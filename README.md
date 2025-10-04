@@ -1,4 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&weight=700&size=35&duration=3000&pause=1000&color=40F71B&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sarnendu+Paul;Passionate+Software+Engineer+from+India+%7C+Crafting+Scalable+Code+%26+Smart+Solutions+%F0%9F%87%AE%F0%9F%87%B3%F0%9F%92%A1)](https://git.io/typing-svg)
 <!-- <h1 align="center">Hi 👋, I'm Sarnendu Paul</h1>
 <h3 align="center">Passionate Software Engineer from India | Crafting Scalable Code & Smart Solutions 🇮🇳💡</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
