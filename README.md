@@ -34,17 +34,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,firebase,jenkins,tensorflow,terraform,git,bash,c,cpp,py,java,spring,go,matlab,maven,html,css,js,ts,react,nextjs,threejs,express,nodejs,mongodb,babel,tailwind,vite,wordpress,mysql,postgres,opencv,vim,npm,pnpm,yarn,powershell,nginx,bitbucket,bootstrap,cloudflare,codepen,devto,idea,webstorm,eclipse,pycharm,anaconda,pytorch,figma,ps,visualstudio,vscode,postman,prometheus,replit,svg,gherkin,netlify,heroku,vercel,windows,linux,ai,gmail,instagram,linkedin,twitter,discord,github,stackoverflow&perline=19&theme=dark)](https://skillicons.dev)
 
-
-
-<!-- GitHub Trophies-->
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul&theme=gruvbox" alt="sarnendu-paul" /></a> </p>
-
-<!-- Holopin Badges -->
-<h3 align="left">⭐ Holopin Badges:</h3>
-
-[![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
-
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=false&count_private=false" alt="sarnendu-paul's GitHub Stats" width="80%" />	
 </div>
@@ -56,3 +45,13 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="sarnendu-paul's GitHub Stats" width="80%" />
 </div>
+
+
+<!-- GitHub Trophies-->
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul&theme=gruvbox" alt="sarnendu-paul" /></a> </p>
+
+<!-- Holopin Badges -->
+<h3 align="left">⭐ Holopin Badges:</h3>
+
+[![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
