@@ -28,6 +28,8 @@
 <a href="https://medium.com/@sarnendupaul10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarnendupaul10" height="30" width="40" /></a>
 </p>
 
+<!-- Languages and Tools -->
+
 <h3 align="left">💻 Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,firebase,jenkins,tensorflow,terraform,git,bash,c,cpp,py,java,spring,go,matlab,maven,html,css,js,ts,react,nextjs,threejs,express,nodejs,mongodb,babel,tailwind,vite,wordpress,mysql,postgres,opencv,vim,npm,pnpm,yarn,powershell,nginx,bitbucket,bootstrap,cloudflare,codepen,devto,idea,webstorm,eclipse,pycharm,anaconda,pytorch,figma,ps,visualstudio,vscode,postman,prometheus,replit,svg,gherkin,netlify,heroku,vercel,windows,linux,ai,gmail,instagram,linkedin,twitter,discord,github,stackoverflow&perline=19&theme=dark)](https://skillicons.dev)
@@ -47,4 +49,4 @@
 
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="sarnendu-paul's GitHub Stats" width="80%" />
