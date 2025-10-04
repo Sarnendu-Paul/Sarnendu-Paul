@@ -47,6 +47,8 @@
 </div>
 
 
+[![sarnendu-paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarnendu-paul&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- GitHub Trophies-->
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul&theme=gruvbox" alt="sarnendu-paul" /></a> </p>
