@@ -34,11 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,firebase,jenkins,tensorflow,terraform,git,bash,c,cpp,py,java,spring,go,matlab,maven,html,css,js,ts,react,nextjs,threejs,express,nodejs,mongodb,babel,tailwind,vite,wordpress,mysql,postgres,opencv,vim,npm,pnpm,yarn,powershell,nginx,bitbucket,bootstrap,cloudflare,codepen,devto,idea,webstorm,eclipse,pycharm,anaconda,pytorch,figma,ps,visualstudio,vscode,postman,prometheus,replit,svg,gherkin,netlify,heroku,vercel,windows,linux,ai,gmail,instagram,linkedin,twitter,discord,github,stackoverflow&perline=19&theme=dark)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnendu-paul&show_icons=true&locale=en&layout=compact" alt="sarnendu-paul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&show_icons=true&locale=en" alt="sarnendu-paul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarnendu-paul&" alt="sarnendu-paul" /></p>
 
 <!-- GitHub Trophies-->
 <h3 align="left">🏆 GitHub Trophies:</h3>
