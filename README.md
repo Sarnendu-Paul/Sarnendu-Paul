@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I automate tasks for fun and debug life like it's just another script. 💻⚙️**
 
+---
+
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarnendupaul10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarnendupaul10" height="30" width="40" /></a>
@@ -34,6 +36,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,firebase,jenkins,tensorflow,terraform,git,bash,c,cpp,py,java,spring,go,matlab,maven,html,css,js,ts,react,nextjs,threejs,express,nodejs,mongodb,babel,tailwind,vite,wordpress,mysql,postgres,opencv,vim,npm,pnpm,yarn,powershell,nginx,bitbucket,bootstrap,cloudflare,codepen,devto,idea,webstorm,eclipse,pycharm,anaconda,pytorch,figma,ps,visualstudio,vscode,postman,prometheus,replit,svg,gherkin,netlify,heroku,vercel,windows,linux,ai,gmail,instagram,linkedin,twitter,discord,github,stackoverflow&perline=19&theme=dark)](https://skillicons.dev)
 
+---
+
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=false&count_private=false" alt="sarnendu-paul's GitHub Stats" width="100%" />	
 </div>
@@ -46,6 +50,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="sarnendu-paul's GitHub Stats" width="60%" />
 </div>
 
+---
 
 [![sarnendu-paul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarnendu-paul&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -57,7 +62,3 @@
 <h3 align="left">⭐ Holopin Badges:</h3>
 
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
-
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-</p>
