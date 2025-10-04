@@ -57,3 +57,7 @@
 <h3 align="left">⭐ Holopin Badges:</h3>
 
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
+
+<p align="center">
+	<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk2MDAwNDAsIm5iZiI6MTc1OTU5OTc0MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDA0VDE3NDIyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2Zjg3NDhlMzc2MDUzNTE4ZDY4MTIzMWY3Mjg1ZDFkZDE3MmI5YmZmMDk1YWMxMzZiMDkyN2U3YzcxYzk5N2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.T7GKyL0eDxGRwKQv4HZl4iaR88nizZ4VQfm4HGKi-nY">
+</p>
