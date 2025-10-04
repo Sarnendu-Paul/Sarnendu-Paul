@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Sarnendu+Paul,+a+CS+undergrad+from+Kolkata,+India.;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)]
+
+
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Sarnendu Paul</h1>
 <h3 align="center">Passionate Software Engineer from India | Crafting Scalable Code & Smart Solutions 🇮🇳💡</h3>
