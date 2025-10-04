@@ -30,7 +30,7 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,firebase,jenkins,tensorflow,terraform,git,bash,c,cpp,py,java,spring,go,matlab,maven,html,css,js,ts,react,nextjs,threejs,express,nodejs,mongodb,babel,tailwind,vite,wordpress,mysql,postgres,opencv,vim,npm,pnpm,yarn,powershell,nginx,bitbucket,bootstrap,cloudflare,codepen,devto,idea,webstorm,eclipse,pycharm,anaconda,pytorch,figma,ps,visualstudio,vscode,postman,prometheus,replit,svg,gmail,gherkin,netlify,heroku,vercel,windows,linux,ai,instagram,linkedin,twitter,discord,github,stackoverflow&perline=19&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,firebase,jenkins,tensorflow,terraform,git,bash,c,cpp,py,java,spring,go,matlab,maven,html,css,js,ts,react,nextjs,threejs,express,nodejs,mongodb,babel,tailwind,vite,wordpress,mysql,postgres,opencv,vim,npm,pnpm,yarn,powershell,nginx,bitbucket,bootstrap,cloudflare,codepen,devto,idea,webstorm,eclipse,pycharm,anaconda,pytorch,figma,ps,visualstudio,vscode,postman,prometheus,replit,svg,gmail,gherkin,netlify,heroku,vercel,windows,linux,ai,instagram,linkedin,twitter,discord,github,stackoverflow&perline=19&theme=dark)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarnendu-paul&show_icons=true&locale=en&layout=compact" alt="sarnendu-paul" /></p>
 
