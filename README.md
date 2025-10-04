@@ -51,7 +51,7 @@
 
 <!-- GitHub Trophies-->
 <h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul&theme=gruvbox" alt="sarnendu-paul" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarnendu-paul&theme=gruvbox" alt="sarnendu-paul" /></a> </p>
 
 <!-- Holopin Badges -->
 <h3 align="left">⭐ Holopin Badges:</h3>
