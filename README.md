@@ -50,3 +50,5 @@
 [![An image of @sarnendupaul10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarnendupaul10)](https://holopin.io/@sarnendupaul10)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="sarnendu-paul's GitHub Stats" width="80%" />
+
+![sarnendu-paul's Stats](https://github-readme-stats.vercel.app/api?username=sarnendu-paul&theme=jolly&show_icons=true&hide_border=false&count_private=true)
