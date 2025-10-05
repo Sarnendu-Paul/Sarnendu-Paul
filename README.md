@@ -42,7 +42,9 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=false&count_private=false" alt="sarnendu-paul's GitHub Stats" width="100%" />	
 </div>
 
-
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=sarnendu-paul&theme=merko&hide_border=false" alt="sarnendu-paul's GitHub Stats" width="80%" />
+</div>
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarnendu-paul&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="sarnendu-paul's GitHub Stats" width="60%" />
