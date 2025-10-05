@@ -43,6 +43,7 @@
 </div>
 
 <div align="center">
+	![sarnendu-paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 	<img src="https://streak-stats.demolab.com?user=sarnendu-paul&theme=merko&hide_border=true" alt="sarnendu-paul's GitHub Stats" />
 </div>
 
