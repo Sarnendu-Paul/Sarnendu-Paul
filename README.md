@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=sarnendu-paul&theme=merko&hide_border=true" alt="sarnendu-paul's GitHub Stats" width="80%" />
+	<img src="https://streak-stats.demolab.com?user=sarnendu-paul&theme=merko&hide_border=false" alt="sarnendu-paul's GitHub Stats" width="80%" />
 </div>
 
 <div align="center">
